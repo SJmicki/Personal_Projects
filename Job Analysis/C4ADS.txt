@@ -1,0 +1,49 @@
+Spring 2022 Data Science Internship
+at C4ADS Internships (View all jobs)
+Washington, DC
+OVERVIEW
+As a Data Science Intern, you will work with the Data Cell to design and develop big data infrastructure, data analysis tools, and interactive visualizations that empower analysts to do their work more effectively and efficiently. You will interface directly with analysts and help create solutions for a variety of needs and problem sets. You will have an opportunity to learn through experience, work in a fast-paced environment, and build a portfolio. 
+
+In addition to attending trainings on methodologies for open-source data analysis and tools such as Palantir and Windward, Data Science Interns receive one-on-one mentorship to advance their professional development. 
+
+ 
+PAST DATA SCIENCE INTERNS HAVE:
+Contributed research to public reports
+
+Written code to automate the extraction and structuring of data for analysis
+
+Produced data visualizations for public-facing reports for international organizations
+
+Developed interactive data portals
+
+Engineered features from large datasets and trained machine learning models
+
+Learned how to use AWS cloud tools and run code in a cloud environment
+
+Presented to grant stakeholders
+
+ 
+WHAT YOU’LL DO
+Data ingest
+
+Data processing
+
+Data cleaning
+
+Interactive data visualization development
+
+Web application development and maintenance
+
+Learn about data management best practices for collection, enrichment, and analysis
+
+Gain exposure to the variety and potential analytical applications of publicly available information (PAI)
+
+ 
+WHAT WE’RE LOOKING FOR
+Experience with data processing and cleaning using Python or R
+
+Working knowledge of web application development or data visualizations in Javascript
+
+Strong background in statistics and demonstrated quantitative and qualitative data analysis experience
+
+Experience with web scraping and structuring, workflow automation, machine learning, Docker, Java, or cloud services like AWS are a plus
